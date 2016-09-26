@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Project\Script\Scene1\SeesawCtrl.cs">
+    <Files>
+      <File FileName="Assets\Pkg\ShurikenMagic\Scripts\SM_animRandomizer.js" Line="1" Column="1" />
+      <File FileName="Assets\Editor\Image Effects\CameraMotionBlurEditor.js" Line="1" Column="1" />
+      <File FileName="Assets\Project\Script\Scene1\OnOffCtrlObj.cs" Line="1" Column="1" />
+      <File FileName="Assets\Project\Script\Scene1\MusicCtrl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Project\Script\Level1\EleMoveCtrl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Project\Script\Scene1\SeesawCtrl.cs" Line="17" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
