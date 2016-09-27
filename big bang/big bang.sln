@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
+# Visual Studio 2015
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "big bang.CSharp.Plugins", "big bang.CSharp.Plugins.csproj", "{BC8D6821-F8A2-BCA0-E71C-C2B96AEA24A8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "big bang.CSharp", "big bang.CSharp.csproj", "{4D0DD74F-A84F-9BAF-D957-3C0F44485839}"
